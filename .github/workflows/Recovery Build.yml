@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Ella-Alinda/device_xiaomi_chopin.git'
+        default: 'https://github.com/Ella-Alinda/device_xiaomi_chopin/tree/13'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-12.1'
+        default: 'android-13'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
