@@ -1,4 +1,4 @@
-name: Fox Recovery Build
+name: boot Build
 
 on:
   workflow_dispatch:
