@@ -1,4 +1,4 @@
-name: boot Build
+name:Build
 
 on:
   workflow_dispatch:
